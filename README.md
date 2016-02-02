@@ -1,7 +1,7 @@
 Andreas Wang
 ==========
 
-## Software Development 
+## Software Development (Stuyvesant High School)
 
 ### Qamba
 #### Andreas Wang, Cooper Weaver, Eric Morgenstern, Mark Norwich
@@ -27,15 +27,7 @@ Allows users to post articles under author names, search for articles by author,
 Allows users to search for restaurants and returns results routed through Yelp.
 #### https://github.com/awang289/Andreas-Mark-API
 
-## Systems Level Programming
-
-### Blind Robot
-#### Andreas Wang, Eric Kolbusz, Malcolm Wells
-#### Description 
-A team strategy game requiring cooperation between two players operating separate programs connected by piping
-#### https://github.com/mks65-dw/final/tree/master/8/Blind-Robot
-
-## AP Computer Science
+## AP Computer Science (Stuyvesant High School)
 
 ### Hearts
 #### Andreas Wang, Eric Kolbusz, Malcolm Wells
