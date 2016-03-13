@@ -1,12 +1,5 @@
 Andreas Wang
 ==========
-## Octal Technologies
-### Grasp
-#### Andreas Wang, Jorge Valdez, Braden Fineberg
-#### Description
-On Demand Tutoring App for Android (Uber for Tutors)
-#### https://bitbucket.org/octaltech/grasp-android
-
 ## Software Development (Stuyvesant High School)
 ### Potholes
 #### Andreas Wang, Cooper Weaver, Eric Morgenstern, Mark Norwich
